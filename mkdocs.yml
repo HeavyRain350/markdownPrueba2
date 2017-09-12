@@ -1,5 +1,4 @@
---- 
-pages: 
-  - 
-    StackEdit: Stack.md
-site_name: "Manual 1"
+site_name: MkLorum
+pages:
+- Home: Stack.md
+- About: about.md
