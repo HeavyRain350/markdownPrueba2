@@ -1,2 +1,4 @@
+site_name: Manual Prueba
 pages:
-	- Home: Hello.md
+	- Home: index.md
+    - Content: Hello.md
