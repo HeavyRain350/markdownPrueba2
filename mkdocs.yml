@@ -1,4 +1,4 @@
 site_name: Manual
 pages:
-- StackEdit: Stack.md
+	-StackEdit: Stack.md
 
