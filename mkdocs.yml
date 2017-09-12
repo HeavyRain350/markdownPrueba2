@@ -1,4 +1,5 @@
 site_name: MkLorum
 pages: 
+- Inicio: index.md
 - StackEdit: Stack.md
 - Dillinger: Dillinger.md
