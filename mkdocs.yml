@@ -1,0 +1,5 @@
+site_name: MkLorum
+pages:
+- Home: Hello!.md
+- StackEdit: Stack.md
+- Dillinger: Dillinger.md
