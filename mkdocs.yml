@@ -1,4 +1,4 @@
-site_name: MkLorum
+site_name: Manual de Usuario Perengano
 pages:
-- Home: index.md
-- Contenido: Hello.md
+- StackEdit: archivo1.md
+- Dillinger: archivo2.md
