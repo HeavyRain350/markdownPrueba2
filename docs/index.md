@@ -1,2 +1,3 @@
 pages:
-    - Hola: Hello.md
+	-House: index.md
+    -Hola: Hello.md
