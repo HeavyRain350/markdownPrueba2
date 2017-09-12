@@ -1,3 +1,5 @@
 site_name: MkLorum
 pages: 
-- Home: index.md
+- Inicio: index.md
+- StackEdit: Stack.md
+- Dillinger: Dillinger.md
